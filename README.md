@@ -62,7 +62,7 @@
 
 ### More About Me
 <div align=left>
-    <a href="https://your-notion-url.notion.site">
+    <a href="https://economic-meteor-78f.notion.site/8e4441565c934930a40077675e031a07?pvs=4">
         <img src="https://img.shields.io/badge/My_Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
     </a>
 </div>
