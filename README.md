@@ -1,68 +1,69 @@
-## *Front/Back-End Developer*, 끈기와 노력으로 성장하는 개발자 
+## Product Engineer | 문제를 구조화하고 실행까지 연결하는 개발자
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skaks569)](https://solved.ac/skaks569/)
+복잡한 서비스와 조직 환경 속에서  
+**문제를 구조적으로 정리하고, 실제로 동작하는 시스템으로 만드는 역할**을 합니다.
 
-# 💪Skills
-### Platforms & Languages & UiKit
-<div align=left>
-    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-</div>
-</br>
-<div align=left>
-    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-    <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
-    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-    <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-</div>
-</br>
-<div align=left>
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-    <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-    <img src="https://img.shields.io/badge/react_native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-    <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-    <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-</div>
-</br>
-<div align=left>
-    <img src="https://img.shields.io/badge/antd-0170FE?style=for-the-badge&logo=ant-design&logoColor=white">
-    <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white">
-    <img src="https://img.shields.io/badge/radix_ui-161618?style=for-the-badge&logo=radixui&logoColor=white">
-    <img src="https://img.shields.io/badge/flowbite-0175F4?style=for-the-badge&logo=flowbite&logoColor=white">
-</div>
-</br>
-<div align=left>
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/mssql-4479A1?style=for-the-badge&logo=mssql&logoColor=white">
-    <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
-    <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-</div>
+- End-to-End 개발 (Frontend · React Native · Architecture · AI)
+- SaaS / AI / IoT 서비스
 
-### Tools
+---
 
-<div align=left>
-    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-    <img
-        src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
-    <img
-        src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white">
-    <img
-        src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android%20Studio&logoColor=white">
-    <img
-        src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
-    <img src="https://img.shields.io/badge/tortoisesvn-7c97c3.svg?style=for-the-badge&logo=tortoisesvn&logoColor=white">
-</div>
+## 🚀 What I Do
 
-### More About Me
-<div align=left>
-    <a href="https://economic-meteor-78f.notion.site/8e4441565c934930a40077675e031a07?pvs=4">
-        <img src="https://img.shields.io/badge/My_Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-    </a>
-</div>
+- 모호한 요구를 구조화하고 실행 가능한 형태로 만듭니다.
+- 프론트엔드 중심에서 서버 구조와 데이터 흐름까지 연결합니다.
+- 운영에서 발생하는 성능, 세션, 구조 문제를 직접 해결합니다.
+- AI(OCR, LLM, RAG)를 실제 서비스 기능으로 연결합니다.
+
+---
+
+## 🧩 Core Capabilities
+
+### Problem Structuring & Execution
+- 복잡한 요구를 구조화하고 우선순위 정의
+- 실행 가능한 계획과 제품 구조 설계
+- 팀이 바로 움직일 수 있는 기준 수립
+
+### Architecture & System Design
+- 프론트엔드 중심의 서비스 아키텍처 설계
+- 성능, 확장성, 운영 비용을 고려한 구조 설계
+- 멀티 프로젝트 환경에서 일관된 구조 유지
+
+### Operational Problem Solving
+- 세션, 푸시, 렌더링 병목 분석 및 해결
+- 불안정한 시스템을 운영 가능한 상태로 개선
+- 실제 서비스 기준으로 문제 해결
+
+### AI Productization
+- OCR, LLM 기반 기능을 실제 UX로 연결
+- Human-in-the-loop 구조 설계
+- 프롬프트/UX/평가 루프 반복 개선
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend / App
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+### Backend & Infra (Adjacent)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### AI / Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-000000?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-000000?style=flat-square)
+![OCR](https://img.shields.io/badge/OCR-000000?style=flat-square)
+
+---
+
+## 🔗 More About Me
+<!--
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio-link)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://your-notion-link) -->
