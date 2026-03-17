@@ -3,7 +3,7 @@
 복잡한 서비스와 조직 환경 속에서  
 **문제를 구조적으로 정리하고, 실제로 동작하는 시스템으로 만드는 역할**을 합니다.
 
-- End-to-End 개발 (Frontend · React Native · Architecture · AI)
+- End-to-End 개발 (Frontend · Backend · Architecture · AI)
 - SaaS / AI / IoT 서비스
 
 ---
